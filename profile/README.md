@@ -1,4 +1,4 @@
-## pinz
+## the pins
 
 https://github.com/tripleo1/.meta
 
